@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/chenzijia12300/bilibili-api/master/preview.jpg" width = "100" height = "100" align="center" />
+<img src="https://raw.githubusercontent.com/chenzijia12300/bilibili-api/master/preview.jpg" width = "200" height = "200" align=center />
 <center><h1>哔哩哔哩移动端API收集</h1></center>
 
 
