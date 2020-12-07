@@ -1,3 +1,4 @@
+<div align=center>![一切都是命运石之门的选择！](https://github.com/chenzijia12300/bilibili-api/blob/master/preview.jpg)
 <center><h1>哔哩哔哩移动端API收集</h1></center>
 
 
