@@ -1,18 +1,4 @@
-
-
-
-
-
-
-<img src="https://raw.githubusercontent.com/chenzijia12300/bilibili-api/master/preview.jpg" width = "200" height = "200" align="center" />
-
-
-
-
-
-
-
-
+<img src="https://raw.githubusercontent.com/chenzijia12300/bilibili-api/master/preview.jpg" width = "200" height = "200" align=center />
 <center><h1>哔哩哔哩移动端API收集</h1></center>
 
 
@@ -35,11 +21,10 @@
 
 - 分区
 
-  - 获取全部分区
-- 获取首页轮播图和视频推荐
+  - [获取全部分区](./获取分区.md)
+  - [获取首页轮播图和视频推荐](./获取首页轮播图和视频推荐.md)
   
 
-  
   
 
 
